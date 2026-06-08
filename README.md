@@ -1,5 +1,5 @@
 # KAST-BAR: Knowledge-Anchored Semantically-Dynamic Topology Brain Autoregressive Modeling for Universal Neural Interpretation
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https%3A%2F%2Fgithub.com%2FKAST-BAR%2FKAST-BAR&left_text=visitors&left_color=%23595959&logo=github)
 ![](figures/KAST-new.png)
 ## Abstract
 
